@@ -34,6 +34,4 @@
 
 **Labeling Dilemma in Question Types**
 
-In the process of working on the project, an issue regarding the labeling of question types has surfaced. While the mock exam data spreadsheet provides clear labels for question types, the worksheet data spreadsheet lacks consistent labeling. This discrepancy makes it challenging to accurately categorize certain question types.I have encountered instances where questions are labeled as 'Phrases' (evident in the 'Frost Passage' - questions 1, 4, 6, 7) and 'Writing Technique'. Regrettably, the exact meanings for these particular question types were not explicitly provided in the 'Question Key' workbook.
-
-Furthermore, some questions have been labeled as 'Understanding' without specifying whether this pertains to 'Understanding Factual Recall' or 'Understanding Inference'. An example of this can be found in the 'Tyger Passage' word document. These labeled entries will be used as training data to develop the prediction model effectively. However, I will be working with the sheets on the worksheet data that are already labeled.
+some of the worksheet data dont have question types
